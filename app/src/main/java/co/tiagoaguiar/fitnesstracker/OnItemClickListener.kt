@@ -4,6 +4,5 @@ import android.util.Log
 
 interface OnItemClickListener {
 
-    fun OnClick(id: Int)
-
+    fun onClick(id: Int)
 }
